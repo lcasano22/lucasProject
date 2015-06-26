@@ -1,0 +1,12 @@
+body{
+	background-color:blue;
+}
+p {
+	color:yellow;
+}
+p#egg{
+	color:yellow;
+}
+p.luca{
+	color:yellow;
+}
